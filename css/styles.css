@@ -65,10 +65,10 @@ html{
   -o-background-size:cover;
   background-size: cover;
   background-attachment: fixed;
-  background: -moz-linear-gradient(to right, black, white);
-  background: -o-linear-gradient(to right, black, white);
-  background: -webkit-linear-gradient(to right, black, white);
-  background: linear-gradient(to right, black, white);
+  background: -moz-linear-gradient(to right, black, whitesmoke);
+  background: -o-linear-gradient(to right, black, whitesmoke);
+  background: -webkit-linear-gradient(to right, black, whitesmoke);
+  background: linear-gradient(to right, black, whitesmoke);
 }
 
 
