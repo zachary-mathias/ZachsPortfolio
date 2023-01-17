@@ -1,12 +1,12 @@
 .h1header
 {
     font-family: 'Courier New', Courier, monospace;
-    color: orange;
+    color: whitesmoke;
     text-align: center;
 }
 .h2header
 {
-    color: grey;
+    color: rgb(54, 53, 53);
     text-align: center;
     font-style: italic;
     font-family:cursive
@@ -14,15 +14,15 @@
 .h3header 
 {
     color: rgb(27, 27, 27);
-    text-shadow: .5px .5px #ffae00;
-    text-decoration-color: orange;
+    text-shadow: .35px .35px whitesmoke;
+    text-decoration-color: whitesmoke;
     font-family: cursive;
 }
 .paragraph1 
 {
     font-family:cursive ;
     border-radius: 25px;
-    background: orange;
+    background: silver;
     padding: 20px;
     width: 1100px;
     height: 30px;
@@ -31,7 +31,7 @@
 {
     font-family:cursive ;
     border-radius: 25px;
-    background: orange;
+    background: silver;
     padding: 20px;
     width: 1100px;
     height: 95px;
@@ -40,21 +40,40 @@
 {
     font-family:cursive ;
     border-radius: 25px;
-    background:  orange; 
+    background:  silver; 
     padding: 20px;
     width: 1100px;
     height: 55px;
 }
 .paragraph4
 {
-    color: #ffae00;
+    color: red;
 }
 .myImage{
-    display: block;
+    
     width: 300px;
     height: 195px;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 50%;
     
 }
+html{
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size:cover;
+  background-size: cover;
+  background-attachment: fixed;
+  background: -moz-linear-gradient(to right, black, white);
+  background: -o-linear-gradient(to right, black, white);
+  background: -webkit-linear-gradient(to right, black, white);
+  background: linear-gradient(to right, black, white);
+}
+
+
+
+
+
+
+
 /* Keep going you can do this.
