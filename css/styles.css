@@ -22,7 +22,7 @@
 {
     font-family:cursive ;
     border-radius: 25px;
-    background: silver;
+    background: rgba(192, 192, 192, 0.493);
     padding: 20px;
     width: 1100px;
     height: 30px;
@@ -31,7 +31,7 @@
 {
     font-family:cursive ;
     border-radius: 25px;
-    background: silver;
+    background: rgba(192, 192, 192, 0.493);
     padding: 20px;
     width: 1100px;
     height: 95px;
@@ -40,14 +40,15 @@
 {
     font-family:cursive ;
     border-radius: 25px;
-    background:  silver; 
+    background:  rgba(192, 192, 192, 0.493); 
     padding: 20px;
     width: 1100px;
     height: 55px;
 }
 .paragraph4
 {
-    color: red;
+    color: rgb(53, 47, 47);
+    margin: 0%;
 }
 .myImage{
     
